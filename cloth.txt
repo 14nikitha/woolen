@@ -6,3 +6,7 @@ DEF
 GHI
 JKL
 
+small alphabetics
+abc
+def
+
